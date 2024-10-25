@@ -1,0 +1,11 @@
+{
+  "name": "ViPoSc",
+  "version": "1.0.0",
+  "description": "Auto Fill Applicant Info with Script Manager",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
